@@ -20,3 +20,6 @@ This project implements a full pick-and-place pipeline for the mycobot_280 robot
 - `mycobot_moveit_demos` — Basic MoveIt2 usage examples
 - `mycobot_system_tests` — Integration tests
 EOF
+
+## Images
+![image](https://github.com/AJAXa239/my_cobot280/blob/dc3b3b64734c529db51c29437ab6a930920b160b/myCobot-280-for-Arduino-6_2700x.jpg)
