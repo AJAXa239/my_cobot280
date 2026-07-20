@@ -1,5 +1,4 @@
-
-cat > README.md << 'EOF'
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue)
 # my_cobot280
 
 mycobot_280 pick-and-place project using MoveIt2 and MoveIt Task Constructor (MTC) on ROS 2 Jazzy with Gazebo Sim.
