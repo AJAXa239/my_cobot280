@@ -3,6 +3,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/AJAXa239/my_cobot280)
 ![Stars](https://img.shields.io/github/stars/AJAXa239/my_cobot280)
 # my_cobot280
+https://lnkd.in/p/dXMr8KrX
 
 mycobot_280 pick-and-place project using MoveIt2 and MoveIt Task Constructor (MTC) on ROS 2 Jazzy with Gazebo Sim.
 
